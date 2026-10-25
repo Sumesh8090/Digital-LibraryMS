@@ -1,0 +1,17 @@
+body{font-family:Segoe UI,Arial,sans-serif;background:#f3f5f9;margin:0;color:#222}
+.nav{background:#1f3a5f;color:#fff;padding:12px 24px;display:flex;justify-content:space-between;align-items:center}
+.nav a{color:#fff;margin-left:16px;text-decoration:none}
+.wrap{max-width:1100px;margin:20px auto;padding:0 16px}
+.box{max-width:340px;margin:80px auto;background:#fff;padding:24px;border-radius:8px;box-shadow:0 2px 10px #0002}
+.box input,.col input,.col textarea{width:100%;box-sizing:border-box;margin:4px 0 12px}
+input,select,textarea{padding:8px;border:1px solid #bbb;border-radius:4px}
+button{background:#2b6cb0;color:#fff;border:0;padding:8px 14px;border-radius:4px;cursor:pointer}
+button.sm{padding:4px 8px;font-size:12px}
+table{width:100%;border-collapse:collapse;background:#fff;margin-bottom:20px}
+th,td{padding:8px;border-bottom:1px solid #e3e3e3;text-align:left;font-size:14px}
+th{background:#e8eef6}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+.inl{display:inline}
+.flash{background:#fff3cd;padding:10px;border-radius:4px;border:1px solid #ffe08a}
+.hint{color:#777;font-size:12px}
+.col{display:flex;flex-direction:column;max-width:500px}
